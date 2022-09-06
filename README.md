@@ -1,4 +1,4 @@
-## Salveee!!! Eu sou o wallace
+## Salveee!!! Eu sou o wallace, estudante de programação e promovido a sonhador
 <div align="center">
   <a href="https://github.com/WallaceVitorino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WallaceVitorino&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -12,9 +12,8 @@
   <img align="center" alt="Icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Icon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="baby-yoda"  src="![image](https://user-images.githubusercontent.com/85367132/188707546-69c67198-fcb3-4373-9085-8a8f6fa45f33.png)">
 </div>
-
-<img align="right" alt=""  src="![image](https://user-images.githubusercontent.com/85367132/188707546-69c67198-fcb3-4373-9085-8a8f6fa45f33.png)">
 
 ##
 
@@ -23,7 +22,5 @@
   <a href="https://discordapp.com/users/575371627576033280" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:wallacevitorino@outlook.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ##![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+  
 </div>

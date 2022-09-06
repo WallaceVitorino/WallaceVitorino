@@ -12,7 +12,7 @@
   <img align="center" alt="Icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Icon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="baby-yoda"  src="![image](https://user-images.githubusercontent.com/85367132/188707546-69c67198-fcb3-4373-9085-8a8f6fa45f33.png)">
+  <img align="right" alt="baby-yoda" height="150" style="border-radius:50px;" src="./baby-yoda.png">
 </div>
 
 ##
@@ -23,6 +23,6 @@
   <a href = "mailto:wallacevitorino@outlook.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/WallaceVitorino/WallaceVitorino/blob/output/github-contribution-grid-snake.svg);
+  ![Snake animation](https://github.com/WallaceVitorino/WallaceVitorino/blob/output/github-contribution-grid-snake.svg)
   
 </div>
